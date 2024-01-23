@@ -1,0 +1,290 @@
+
+body{
+    background-color: aliceblue;
+    margin: 0px;
+    padding: 0px;
+
+}
+.navbar-menu {
+    float: right;
+    margin: 14px 149px 0px 0px;
+    display: flex;
+}
+
+.header-image{
+    background : url(../images/img-bg-01.jpg);
+    background-size: cover; 
+     background-repeat: no-repeat;
+    height: 800px;
+    width: 100%;
+}
+
+.logo {
+    height: 50px;
+    width: 114px;
+    margin-left: 100px;
+}
+
+.list-style {
+    height: 34px;
+    background-color: rebeccapurple;
+    width: 159px;
+    padding-left: 21px;
+    padding-bottom: 4px;
+    padding-top: 4px;
+    border-radius: 15px;
+}
+
+.header-text {
+    color: white;
+    padding: 150px 0px 0px 170px;
+}
+
+.header-text h1 {
+    font-size: 88px;
+    font-weight: bold;
+    color: white;
+}
+
+.header-text h2 {
+    font-size: 27px;
+    /* padding-left: 82px; */
+    color: cadetblue;
+}
+
+.header-text h4 {
+    font-size: 17px;
+    /* padding-left: 265px; */
+    font-weight: unset;
+    color: aquamarine;
+}
+
+.font-image-text{
+    height: 40px;
+    width: 43%;
+    background-color: #11a1c1;
+    border-radius: 10px;
+    margin: -43px 0px 0px 365px;
+    color: #ffefef;
+}
+
+.under-button-text p{
+    font-size: 13px;
+    margin-left: 374px;
+    margin-top: 12px;
+}
+
+.under-header-text h2{
+    font-size: 52px;
+    margin-left: 294px;
+    font-weight: 900;
+    color: cornflowerblue;
+}
+
+.under-header-text2 h4 {
+    font-size: 18px;
+    margin-left: 33px;
+    color: black;
+    font-family: inherit;
+}
+
+.main-contain {
+    width: 50%;
+    float: left;
+}
+.contain img {
+    height: 94px;
+    width: 137px;
+    float: left;
+    padding-right: 23px;
+}
+.contain h2 {
+    font-size: 20px;
+    color: blueviolet;
+    font-weight: bold;
+}
+
+.contain p {
+    font-size: 13px;
+    text-align: justify;
+}
+
+.main-container-2 {
+    float: right;
+    height: 400px;
+    width: 47%;
+}
+
+.main-container-2 img {
+    height: 470px;
+    width: 100%;
+}
+
+.contract h2 {
+    font-size: 40px;
+    margin-left: 316px;
+    color: blueviolet;
+    font-weight: initial;
+    margin-bottom: 33px;
+}
+
+.contract-full {
+    height: 180px;
+    width: 40%;
+    margin-right: 10px;
+    float: left;
+    margin-left: 50px;
+    margin-bottom: 33px;
+}
+
+.contract-full img {
+    margin-left: 166px;
+    margin-bottom: 16px;
+    height: 80px;
+    width: 112px;
+}
+
+.contract-full p {
+    font-size: 18px;
+    margin-left: 32px;
+    text-align: center;
+    font-family: serif;
+    font-style: italic;
+}
+.main-course {
+    height: 400px;
+    width: 23%;
+    background-color: darkturquoise;
+    padding-left: 21px;
+    float: left;
+    margin-right: 22px;
+    padding: 46px 0px 0px 19px;
+    color: white;
+}
+
+.main-course span {
+    font-size: 25px;
+    font-weight: 500;
+    margin-left: 26px;
+    height: 50px;
+}
+.main-course h2 {
+    font-size: 65px;
+    margin-left: 44px;
+    color: black;
+    font-weight: 700;
+}
+.main-course h6 {
+    font-size: 19px;
+    margin-left: 44px;
+    opacity: 0.7;
+    color: black;
+}
+.main-course p {
+    font-size: 17px;
+    margin: 0px 42px 22px 24px;
+    font-weight: initial;
+    padding-top: 28px;
+    border-top: 2px solid black;
+}
+
+.perchase {
+    height: 44px;
+    width: 60%;
+    background-color: cadetblue;
+    margin-left: 30px;
+    padding-left: 21px;
+    padding-bottom: 5px;
+    padding-top: 10px;
+    border-radius: 21px;
+    font-size: 16px;
+    font-weight: 700;
+    float: inline-end;
+}
+.perchase:hover{
+    background-color: white;
+    color: black;
+}
+
+.video-contain {
+    height: 750px;
+    width: 100%;
+}
+
+.video-contain img {
+    width: 100%;
+    height: 650px;
+}
+.video-file {
+    height: 119px;
+    width: 100%;
+}
+.video-file h2 {
+    font-size: 40px;
+    font-weight: 600;
+    float: left;
+    color: blueviolet;
+}
+
+button.btn.btn-3 {
+    float: right;
+    height: 51px;
+    width: 139px;
+    color: blueviolet;
+    font-size: 22px;
+    font-weight: 500;
+    margin: 29px 63px 0px 0px;
+    border-radius: 25px;
+    border: 2px solid blueviolet;
+}
+button.btn.btn-3:hover{
+   background-color: blueviolet;
+   border: 0px ;
+   color: white;
+}
+
+input.subscribe-input {
+    height: 52px;
+    margin: 29px 0px 0px 142px;
+    border: 2px solid darkviolet;
+    border-radius: 25px;
+}
+.footer-logo img {
+    margin-left: 451px;
+}
+
+.footer-button {
+    height: 100px;
+    width: 100%;
+    /* margin: 33px 0px 0px 413px; */
+}
+
+.footer-button button {
+    background: blueviolet;
+    height: 57px;
+    width: 300px;
+    font-size: 18px;
+    color: white;
+    border-radius: 25px;
+    border: 2px solid blueviolet;
+    margin: 33px 0px 0px 351px;
+    font-weight: 600;
+}
+
+.footer-button p {
+    font-weight: initial;
+    margin: 17px 0px 26px 333px;
+    font-size: 15px;
+    opacity: .8;
+}
+
+.footer-text {
+    height: 56px;
+    float: left;
+    margin: 40px 14px 0px 14px;
+}
+
+.footer-text h2{
+    font-size: 27px;
+    color: blueviolet;
+}
